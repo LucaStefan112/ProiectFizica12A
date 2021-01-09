@@ -1,0 +1,81 @@
+*{
+	font-family: 'Roboto', sans-serif;
+	background-color: #dfe0e1;
+}
+
+body{
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+}
+
+#navbar{
+	position: relative;
+	width: 90%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-top: 20px;
+}
+
+#mainBox, #boxRowContainer, #boxRow{
+	display: flex; 
+	justify-content: center;
+	align-content: center;
+}
+
+#boxContainer{
+	display: flex;
+	justify-content: center;
+	align-content: center;
+	position: relative; 
+	width: 550px; 
+	height: 550px; 
+	margin: 15px;
+}
+
+#projectIcon{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	opacity: 1;
+	animation-name: fade-in-project;
+	animation-duration: 300ms;
+
+	background-image: url('media/default.jpg');
+	background-size: cover;
+	background-position: center;
+}
+
+#projectIcon:hover{
+	opacity: 0;
+	animation-name: fade-out-project;
+	animation-duration: 300ms;
+}
+
+#projectTitle{
+	position: absolute;
+	text-align: center;
+	top:50%;
+	transform: translateY(-50%);
+	opacity: 1;
+	animation-name: fade-in-project;
+	animation-duration: 300ms;
+}
+
+#projectTitle : hover{
+	opacity: 1;
+	animation-name: fade-in-project;
+	animation-duration: 300ms;
+}
+
+@keyframes fade-in-project{
+	0%{opacity: 0;}
+	100%{opacity: 1;}
+}
+
+@keyframes fade-out-project{
+	0%{opacity: 1;}
+	100%{opacity: 0;}
+}
+
