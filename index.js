@@ -1,15 +1,15 @@
 const data = [
 {
 	//1
-	'title': 'asdasd',
-	'link': 'asdasda'
+	'title': '',
+	'link': ''
 }, {
 	//2
-	'title': 'adsasd',
+	'title': '',
 	'link': ''
 }, {
 	//3
-	'title': 'asdasd',
+	'title': '',
 	'link': ''
 }, {
 	//4
@@ -193,7 +193,7 @@ for(let cnt = 0; cnt < 35; cnt++){
 
 		else
 
-			projectIcon.style.backgroundImage = "url('media/default.png')";
+			projectIcon.style.backgroundImage = "url('media/default.jpg')";
 
 		boxContainer.appendChild(projectIcon);
 
