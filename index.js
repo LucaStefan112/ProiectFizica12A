@@ -1,47 +1,47 @@
 const data = [
 {
 	//1
-	'title': 'Reactoare nucleare',
+	'title': '',
 	'link': ''
 }, {
 	//2
-	'title': 'Uranium',
+	'title': '',
 	'link': ''
 }, {
 	//3
-	'title': 'Polipeptide',
+	'title': '',
 	'link': ''
 }, {
 	//4
-	'title': 'Jiousyad',
+	'title': '',
 	'link': ''
 }, {
 	//5
-	'title': 'KLJH kashdakj aksjda',
+	'title': '',
 	'link': ''
 }, {
 	//6
-	'title': 'dasda asdalksj lask;jda asdds',
+	'title': '',
 	'link': ''
 }, {
 	//7
-	'title': 'adfafa adsfad adf',
+	'title': '',
 	'link': ''
 }, {
 	//8
-	'title': 'asdfa d adfadsf asdf asd adsf',
+	'title': '',
 	'link': ''
 }, {
 	//9
-	'title': 'asdfasf adsfads fas',
+	'title': '',
 	'link': ''
 }, {
 	//10
-	'title': 'adsfa sf asdfa ds',
+	'title': '',
 	'link': ''
 }, {
 	//11
-	'title': 'adsf asdf adf',
+	'title': '',
 	'link': ''
 }, {
 	//12
