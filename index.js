@@ -5,8 +5,8 @@ const data = [
 	'link': 'https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.canva.com%2Fdesign%2FDAETgXi75Qc%2FKTImZLqK9VzU4lKvnXsIxg%2Fview%3Futm_content%3DDAETgXi75Qc%26utm_campaign%3Ddesignshare%26utm_medium%3Dlink%26utm_source%3Dsharebutton%26fbclid%3DIwAR05qxJmL6q1cdI59kQGPUT6S0IX5187VzRbs9-JTSa3DTyPImYgkZ-PiIE&h=AT38BGXpi2htHzMfEfQoRpX5tUL5_IAOA9RMkrQB_CW8jWYJjCWL92YTHUb0mVvlHPLAtxSMPwsSQFtBuDtQalI0Ly8bafq3wlZSQPqip4cGC_ZVCfhE0aQTFEl8CrrY3i2jlg'
 }, {
 	//2
-	'title': '',
-	'link': ''
+	'title': 'Plita cu inducție',
+	'link': 'https://l.facebook.com/l.php?u=https%3A%2F%2Fmariavasilache99.wixsite.com%2Fwebsite%3Ffbclid%3DIwAR3Iy5NQ4b4GRdvyR91ln1mgG5xmsJK-7bCscQbohV0oesPdzJWstTUWvEY&h=AT1C5RcjPOL56ALJPLUbgeypEwKNUIEemSvY05iygX0nN-JYtZ-PSfAJEiCiOxUIK2RVFQM0JlyUmECfUOWs4zhezCKWmdaqf-ktbKWFwcUN2JnMXup4zGTpeTeF0FoUI53Pew'
 }, {
 	//3
 	'title': '',
