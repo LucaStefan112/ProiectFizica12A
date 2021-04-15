@@ -9,8 +9,8 @@ const data = [
 	'link': 'https://l.facebook.com/l.php?u=https%3A%2F%2Fmariavasilache99.wixsite.com%2Fwebsite%3Ffbclid%3DIwAR3Iy5NQ4b4GRdvyR91ln1mgG5xmsJK-7bCscQbohV0oesPdzJWstTUWvEY&h=AT1C5RcjPOL56ALJPLUbgeypEwKNUIEemSvY05iygX0nN-JYtZ-PSfAJEiCiOxUIK2RVFQM0JlyUmECfUOWs4zhezCKWmdaqf-ktbKWFwcUN2JnMXup4zGTpeTeF0FoUI53Pew'
 }, {
 	//3
-	'title': '',
-	'link': ''
+	'title': 'Reactorul nuclear',
+	'link': 'https://reactorulnuclear.wordpress.com/'
 }, {
 	//4
 	'title': '',
